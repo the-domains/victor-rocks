@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-01T17:22:47.405Z'
-dateModified: '2015-12-01T17:22:27.446Z'
+datePublished: '2015-12-01T17:44:01.595Z'
+dateModified: '2015-12-01T17:22:47.405Z'
 title: 'Old dog, new tricks'
 author: []
 sourcePath: _posts/2015-12-01-old-dog-new-tricks.md
