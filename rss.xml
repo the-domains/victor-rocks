@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Victor Rocks]]></title>
+        <description><![CDATA[Victor Rocks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 16:57:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old dog, new tricks]]></title>
+            <description><![CDATA[<article><h1>Old dog, new tricks</h1><p>Since I was a little boy, I wanted to make video games (much as any kid from my generation, I guess). I had the intuition then that that was a tall order, later confirmed during my University years. The art of videogame-making was something reserved for very smart people, or that devoted their life to that, with big production budgets. Yes, there were successful indies, but for every one of them that made it, a thousand lay on the roadside.</p></article>]]></description>
+            <link>undefinedold-dog-new-tricks/index.html</link>
+            <guid isPermaLink="false">27e34e47-589a-40b4-8da2-c8a063143979</guid>
+            <pubDate>Tue, 01 Dec 2015 16:57:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
