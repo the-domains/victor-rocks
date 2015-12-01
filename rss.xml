@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Victor Rocks]]></title>
         <description><![CDATA[Victor Rocks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/victor-rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 16:57:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Dec 2015 17:01:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/victor-rocks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Old dog, new tricks]]></title>
             <description><![CDATA[<article><h1>Old dog, new tricks</h1><p>Since I was a little boy, I wanted to make video games (much as any kid from my generation, I guess). I had the intuition then that that was a tall order, later confirmed during my University years. The art of videogame-making was something reserved for very smart people, or that devoted their life to that, with big production budgets. Yes, there were successful indies, but for every one of them that made it, a thousand lay on the roadside.</p></article>]]></description>
-            <link>undefinedold-dog-new-tricks/index.html</link>
+            <link>https://thegrid.ai/victor-rocks/old-dog-new-tricks/index.html</link>
             <guid isPermaLink="false">27e34e47-589a-40b4-8da2-c8a063143979</guid>
-            <pubDate>Tue, 01 Dec 2015 16:57:26 GMT</pubDate>
+            <pubDate>Tue, 01 Dec 2015 17:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
