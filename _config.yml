@@ -1,7 +1,7 @@
 name: Victor Rocks
 favicon: null
-layout_spectrum: 0.006149692460894585
-typography_spectrum: 0.512654886348173
+layout_spectrum: 0.44962
+typography_spectrum: 0.73479
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.6466906529385597
-  lightness: 0.9766306539531797
-  saturation: 0.02216669451445341
-  rhythmicContrast: 0.12454597163014114
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
